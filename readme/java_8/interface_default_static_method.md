@@ -1,6 +1,14 @@
 # Java 8
 
-## Interface Detault and Static Methods
+## Interface Default and Static Methods
+
+[Definition](#definition)
+
+[Static Method](#static-method)
+
+[Default Method](#default-method)
+
+### Definition
 
 Interfaces can have **static** and **default** methods that, despite being declared in an interface, have a defined behavior.
 

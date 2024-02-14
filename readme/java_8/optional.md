@@ -2,6 +2,15 @@
 
 ## Optional&lt;T&gt;
 
+[Definition](#definition)
+
+[Creation of the Optional&lt;T&gt;](#creation-of-the-optionalt)
+
+[Optional&lt;T&gt; Usage](#optionalt-usage)
+
+
+### Definition
+
 Java 8 Optional&lt;T&gt; class can help to handle situations where there is a possibility of getting the NPE. It works as a container for the object of type T. It can return a value of this object if this value is not a null. When the value inside this container is null, it allows doing some predefined actions instead of throwing NPE.
 
 ### Creation of the Optional&lt;T&gt;

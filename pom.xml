@@ -9,6 +9,8 @@
     <modules>
         <module>java_14</module>
         <module>java_5</module>
+        <module>java_8</module>
+        <module>design_patterns</module>
     </modules>
 
     <properties>
@@ -21,6 +23,12 @@
             <groupId>org.junit.jupiter</groupId>
             <artifactId>junit-jupiter</artifactId>
             <version>5.8.2</version>
+            <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.assertj</groupId>
+            <artifactId>assertj-core</artifactId>
+            <version>3.21.0</version>
             <scope>test</scope>
         </dependency>
     </dependencies>
